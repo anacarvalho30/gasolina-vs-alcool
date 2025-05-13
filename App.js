@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     padding: 40,
-    backgroundColor: 'rgba(255, 255, 255, 0.3)', // leve véu para suavizar o fundo
+    backgroundColor: 'rgba(255, 255, 255, 0.3)', 
   },
   card: {
     backgroundColor: 'rgba(255, 255, 255, 0.85)',
@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
     shadowRadius: 8,
     elevation: 10,
     borderWidth: 2,
-    borderColor: '#FFB6C1', // rosa pastel
+    borderColor: '#FFB6C1', 
   },
   title: {
     fontSize: 32,
@@ -96,7 +96,7 @@ const styles = StyleSheet.create({
     shadowRadius: 6,
     elevation: 6,
     borderWidth: 1,
-    borderColor: '#FFDAB9', // amarelo pêssego
+    borderColor: '#FFDAB9', 
   },
   buttonText: {
     color: '#fff',
